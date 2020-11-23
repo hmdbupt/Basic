@@ -38,5 +38,5 @@ jobs:
       
       # Run Surge
       - name: Run surge
-        run: surge ./ --token ${{SURGE_TOKEN}}
+        run: surge ./ --token ${{secrets.SURGE_TOKEN}}
      
