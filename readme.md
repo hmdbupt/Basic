@@ -1,1 +1,1 @@
-A basic HTML website that will be deployed at [https://dangerous-destruction-basic.surge.sh/](surge URL)
+A basic HTML website that will be deployed at [surge URL](https://dangerous-destruction-basic.surge.sh/)
