@@ -29,9 +29,10 @@ jobs:
 
       # Install NodeJS
       - name: Install NodeJS
-        run: actions/setup-node@v2
+        run: actions/setup-node@v2-beta
         with:
           node-version: 12
+
       # Install Surge
       - name: Install Surge
         run: npm install -g surge
